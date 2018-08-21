@@ -2,3 +2,5 @@
 Luke Edward Personal Website
 
 With help of pexels.com and unsplash.com
+
+Website will showcase personal achievements
